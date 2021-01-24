@@ -16,8 +16,8 @@ public class testFor {
 //    }
 //    System.out.println("Sum = " + sum);
 //    SumOdd.sumOdd(1,1000);
-    NumberPalindrome.isPalindrome(2002);
-
+//    NumberPalindrome.isPalindrome(2002);
+//    FirstAndLastDigitSum.sumFirstAndLastDigit(257);
 
 
 

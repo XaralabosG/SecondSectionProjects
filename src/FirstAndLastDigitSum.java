@@ -6,6 +6,7 @@ public class FirstAndLastDigitSum {
         int sum = number%10;
         while(number>=10){
             number/=10;
+            System.out.println(sum);
         }
         return sum+number;
     }
