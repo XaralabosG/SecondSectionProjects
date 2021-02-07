@@ -19,6 +19,7 @@ public class testFor {
 //    NumberPalindrome.isPalindrome(2002);
 //    FirstAndLastDigitSum.sumFirstAndLastDigit(257);
 
+//      GretestCommonDivisor.getGreatestCommonDivisor(81,153);
 
 
 
